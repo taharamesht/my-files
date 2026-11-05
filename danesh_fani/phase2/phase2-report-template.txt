@@ -1,0 +1,39 @@
+Amirkabir High School - Phase 2 report
+Instructor: Mirzabayati
+Replace taha ramesht in filenames with your own student code.
+
+Student code:taha ramesht
+VM name and setup route (own/supplied/school VM):
+VirtualBox version / Ubuntu version: debian 13
+
+A. CPU
+Original allocation:
+Assigned temporary allocation:2
+nproc result after change:3
+Restored allocation:3
+nproc result after restoration:2
+
+B. GUEST RAM (use the same display and units)
+Tool and label used:
+Total memory shown:4GB
+Before opening image viewer (value and unit): cache :694.8 MG , 1 GB of 4GB
+After opening pattern.png (value and unit):cache:1.1 GB , 1.8 GB of 4GB
+What changed? Record your real observation:I observed that more space was occupied in my 4GB of RAM, and then it was freed up.
+
+C. PRACTICE FILES (all measurements in bytes)
+File                      Original bytes    Extracted bytes    Content matches?Yes
+repeat.txt
+pattern.png
+student-note-S07.txt
+Total of the three original file sizes:(repeat.txt: 77.085 bytes)(pattern.png:35.200 bytes)(student-note-S07.txt: 192 bytes)(Total :304.285‬)
+practice-S07.zip size:78.219 bytes
+ZIP is smaller / same size / larger than original total:smaller
+
+
+D. EXPLANATIONS (2-3 sentences each)
+1. How are virtual CPUs, RAM in use and saved disk files different?   Virtual CPUs process instructions, RAM in use is the memory currently used by running programs, and saved disk files store data permanently, even after shutdown
+2. What do compression and extraction do, and why might a PNG not shrink much in a ZIP?  Compression reduces file size, while extraction restores files from a compressed archive. PNG files may not shrink much in a ZIP because they are already compressed.
+
+F. PROBLEMS, HELP AND VIDEO TIMES
+Problems and what you did: Work proceeded as usual
+Help received (write none if no help):Nothing
